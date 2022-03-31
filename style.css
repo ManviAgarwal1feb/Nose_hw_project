@@ -1,0 +1,25 @@
+h1{
+    background-image:linear-gradient(grey,black);
+    color: red;
+    text-shadow: 1px 1px 5px white;
+    width: 50%;
+    border-radius: 40px;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+body{
+    background-image: url("https://cdn1.vectorstock.com/i/1000x1000/35/40/cosmetic-products-seamless-pattern-background-vector-20073540.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+canvas{
+    border-width: 5px;
+    border-style: ridge;
+    border-color: rgb(31, 31, 29);
+    animation-name: example;
+    animation-duration: 5s;
+    animation-iteration-count:infinite;
+}
